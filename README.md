@@ -1,6 +1,6 @@
 # Marble_Madness
 
-This is a toy project demonstrates basic Unity skills,<br>
+This is a toy project demonstrates basic Unity Engine skills,<br>
 archived from Simulation & Game Development course assignment.
 
 The following skills (but are not limited to) are used in this project:
